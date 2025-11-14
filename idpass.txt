@@ -1,2 +1,0 @@
-USER：1234
-PASS：abcd
